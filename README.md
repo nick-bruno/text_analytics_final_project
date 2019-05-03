@@ -1,3 +1,12 @@
 # text_analytics_final_project
 The purpose of our project was to take a corpus of 57,650 songs and try to find similarities between songs and artists, as well as compare the sentiment of different artists. We did this in 5 main steps:
-1) 
+
+1) Created an Ordered Hierarchy of Content Objects (OHCO) that included artist_id, song_id, verse_id, and line_id. So, each artist had songs, each song contained verses, and each verse contained lines. This can be found in "Song_Corpus_OHCO.ipynb".
+
+2) We ran a MALLET analysis on the entire corpus of songs, finding the most frequent song topics. This can be found in "MALLET_Analysis.ipynb", and the subsequent documents that result from this analysis can be found in the "MALLET_Analysis_Files" folder.
+
+3) We compared the cosine similarity of songs between 3 artists. This can be found in "Cosine_Similarity_Comparison_By_Song.ipynb".
+
+4) We compared the cosine similarity of artists. We did this by combining each of the songs into one large text row, and ran our analysis from there to compare the similarity of overall lyrics between artists. This can be found in "Cosine_Similarity_Comparison_By_Artist.ipynb".
+
+5) Lastly, we ran sentiment analysis on our corpus to find the most positive and negative songs, as well as the most positive and negative artists. This can be found in "Sentiment_Analysis.ipynb".
