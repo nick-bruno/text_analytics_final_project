@@ -4,3 +4,13 @@ new_data/D.csv
 new_data/TFIDF.csv
 new_data/token_corpus_one_hundred_artists.csv
 new_data/V.csv
+lexicons.db
+opinion-lexicon-English.rar
+opinion-lexicon-English/gi.csv
+opinion-lexicon-English/inquirerbasic.xls
+opinion-lexicon-English/negative-words.txt
+opinion-lexicon-English/NRC-Emotion-Lexicon-Wordlevel-v0.92.txt
+opinion-lexicon-English/positive-words.txt
+opinion-lexicon-English/syuzhet.csv
+subset_tokens.csv
+vocab_subset.csv
