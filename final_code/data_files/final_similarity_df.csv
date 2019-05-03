@@ -1,0 +1,164 @@
+,song_y,Similarity,song_x,artist_y,song_y_name,artist_id_y,artist_x,song_x_name,artist_id_x
+0,10388,0.9768145485368415,10440,Foo Fighters,In The Clear,151,Foo Fighters,Rope,151
+1,31602,0.4799756965026529,31615,Snoop Dogg,187,472,Snoop Dogg,Deep Cover,472
+2,31374,0.21544069182031972,31615,Selena Gomez,Undercover,467,Snoop Dogg,Deep Cover,472
+3,10401,0.43365771410549125,31634,Foo Fighters,Shake Your Blood,151,Snoop Dogg,I Wanna Rock,472
+4,10442,0.175288702904672,31634,Foo Fighters,Stacked Actors,151,Snoop Dogg,I Wanna Rock,472
+5,10445,0.10968577094438398,31634,Foo Fighters,The Colour And The Shape,151,Snoop Dogg,I Wanna Rock,472
+6,31632,0.0807517480021869,31634,Snoop Dogg,Gz And Hustlas,472,Snoop Dogg,I Wanna Rock,472
+7,31633,0.01720159043860087,31634,Snoop Dogg,Hi 2 U,472,Snoop Dogg,I Wanna Rock,472
+8,10419,0.4156374447584619,10433,Foo Fighters,Big Me,151,Foo Fighters,Never Talking To You Again (Live),151
+9,10383,0.12453300388241935,10433,Foo Fighters,How Do You Do?,151,Foo Fighters,Never Talking To You Again (Live),151
+10,31616,0.3661906515899056,31624,Snoop Dogg,Dogg Named Snoop,472,Snoop Dogg,From Tha Chuuuch To Da Palace,472
+11,31617,0.12700248966672295,31624,Snoop Dogg,Doggfather,472,Snoop Dogg,From Tha Chuuuch To Da Palace,472
+12,10439,0.3538618172330629,31362,Foo Fighters,Resolve,151,Selena Gomez,Feel Me,467
+13,31611,0.3325731682448294,31617,Snoop Dogg,C-Walkin,472,Snoop Dogg,Doggfather,472
+14,31588,0.33212019904084267,31632,Snoop Dogg,Doggy Dogg World,472,Snoop Dogg,Gz And Hustlas,472
+15,31624,0.26530940378375534,31632,Snoop Dogg,From Tha Chuuuch To Da Palace,472,Snoop Dogg,Gz And Hustlas,472
+16,31614,0.2647214919488508,31632,Snoop Dogg,Deeez Nuuuts,472,Snoop Dogg,Gz And Hustlas,472
+17,31626,0.20460329705545685,31632,Snoop Dogg,Gangbang Rookie,472,Snoop Dogg,Gz And Hustlas,472
+18,31630,0.2021367321563183,31632,Snoop Dogg,Get Bout It Rowdy,472,Snoop Dogg,Gz And Hustlas,472
+19,31601,0.18183264293106058,31632,Snoop Dogg,It Blows My Mind,472,Snoop Dogg,Gz And Hustlas,472
+20,31623,0.1746723129916329,31632,Snoop Dogg,From Long Beach 2 Brick City,472,Snoop Dogg,Gz And Hustlas,472
+21,31631,0.14143346191759984,31632,Snoop Dogg,Girl Like U,472,Snoop Dogg,Gz And Hustlas,472
+22,10420,0.32853865825712353,10441,Foo Fighters,Cold Day In The Sun,151,Foo Fighters,Spill,151
+23,10392,0.12523091161379682,10441,Foo Fighters,Kiss The Bottle,151,Foo Fighters,Spill,151
+24,10414,0.31828155344783576,10452,Foo Fighters,A Matter of Time,151,Foo Fighters,Walking After You,151
+25,10393,0.27439183260186156,10452,Foo Fighters,Kung Fu Fightin,151,Foo Fighters,Walking After You,151
+26,10408,0.20057615252914593,10452,Foo Fighters,Throwing Needles,151,Foo Fighters,Walking After You,151
+27,31608,0.317568920817551,31616,Snoop Dogg,Bathtub,472,Snoop Dogg,Dogg Named Snoop,472
+28,31376,0.13720767936995157,31616,Selena Gomez,Write Your Name,467,Snoop Dogg,Dogg Named Snoop,472
+29,31592,0.30643863017124456,31604,Snoop Dogg,Gangsta Ride,472,Snoop Dogg,2 Of Amerikaz Most Wanted,472
+30,10379,0.30635760865272765,10429,Foo Fighters,Hell,151,Foo Fighters,Milk,151
+31,10416,0.2543930145086275,10429,Foo Fighters,Another Round,151,Foo Fighters,Milk,151
+32,10433,0.2936824118269301,31612,Foo Fighters,Never Talking To You Again (Live),151,Snoop Dogg,California Roll,472
+33,31589,0.12770612267287054,31612,Snoop Dogg,Fresh Pair Of Panties On,472,Snoop Dogg,California Roll,472
+34,10396,0.0723807331765845,31612,Foo Fighters,Mountain Of You,151,Snoop Dogg,California Roll,472
+35,31370,0.030713230257389097,31612,Selena Gomez,Like A Champion,467,Snoop Dogg,California Roll,472
+36,31369,0.2913237809275585,31371,Selena Gomez,Forget Forever,467,Selena Gomez,Love Will Remember,467
+37,10405,0.17707792355606083,31371,Foo Fighters,Stranger Things Have Happened,151,Selena Gomez,Love Will Remember,467
+38,10422,0.155043327481719,31371,Foo Fighters,Dear Lover,151,Selena Gomez,Love Will Remember,467
+39,31365,0.0537660907172881,31371,Selena Gomez,I Won't Apologize,467,Selena Gomez,Love Will Remember,467
+40,31593,0.2853229764455683,31610,Snoop Dogg,Give It 2 'em Dogg,472,Snoop Dogg,Buck 'em,472
+41,31603,0.2146542830443957,31610,Snoop Dogg,2001,472,Snoop Dogg,Buck 'em,472
+42,31606,0.09767005533142906,31610,Snoop Dogg,Ain't Nut'in Personal,472,Snoop Dogg,Buck 'em,472
+43,31604,0.28074779456866206,31628,Snoop Dogg,2 Of Amerikaz Most Wanted,472,Snoop Dogg,Gangsta Luv,472
+44,31599,0.25786643461123304,31628,Snoop Dogg,In Love With A Thug,472,Snoop Dogg,Gangsta Luv,472
+45,31627,0.17329717741992143,31628,Snoop Dogg,Gangsta Like Me,472,Snoop Dogg,Gangsta Luv,472
+46,31600,0.25300849791172003,31620,Snoop Dogg,Issues,472,Snoop Dogg,Don't Be Foolish,472
+47,31619,0.22384398159255794,31620,Snoop Dogg,Doin' Too Much,472,Snoop Dogg,Don't Be Foolish,472
+48,31609,0.2529942502615251,31619,Snoop Dogg,Betta Days,472,Snoop Dogg,Doin' Too Much,472
+49,31615,0.15186889395879768,31619,Snoop Dogg,Deep Cover,472,Snoop Dogg,Doin' Too Much,472
+50,10454,0.09549607787661862,31619,Foo Fighters,Weenie Beenie,151,Snoop Dogg,Doin' Too Much,472
+51,31605,0.07823277062166008,31619,Snoop Dogg,A Message 2 Fat Cuzz,472,Snoop Dogg,Doin' Too Much,472
+52,10412,0.2328502681985955,10416,Foo Fighters,White Limo,151,Foo Fighters,Another Round,151
+53,10389,0.23210729452553386,10424,Foo Fighters,In Your Honor,151,Foo Fighters,Doa,151
+54,10404,0.1425298789336481,10424,Foo Fighters,Something From Nothing,151,Foo Fighters,Doa,151
+55,10398,0.23122650556813584,31613,Foo Fighters,Next Year,151,Snoop Dogg,Can't Say Goodbye,472
+56,31625,0.22979878668371878,31630,Snoop Dogg,G Bedtime Stories,472,Snoop Dogg,Get Bout It Rowdy,472
+57,31620,0.19201916264390056,31630,Snoop Dogg,Don't Be Foolish,472,Snoop Dogg,Get Bout It Rowdy,472
+58,31612,0.12652309142982224,31630,Snoop Dogg,California Roll,472,Snoop Dogg,Get Bout It Rowdy,472
+59,31629,0.1146016666449849,31630,Snoop Dogg,Gangsta Walk,472,Snoop Dogg,Get Bout It Rowdy,472
+60,31610,0.226769793850445,31625,Snoop Dogg,Buck 'em,472,Snoop Dogg,G Bedtime Stories,472
+61,10372,0.22273940788835978,10393,Foo Fighters,Ffl,151,Foo Fighters,Kung Fu Fightin,151
+62,10449,0.22141603286033545,31369,Foo Fighters,Up In Arms,151,Selena Gomez,Forget Forever,467
+63,10390,0.11515861907935515,31369,Foo Fighters,Iron And Stone,151,Selena Gomez,Forget Forever,467
+64,31628,0.21570955924420002,31629,Snoop Dogg,Gangsta Luv,472,Snoop Dogg,Gangsta Walk,472
+65,10452,0.21367874162008654,31607,Foo Fighters,Walking After You,151,Snoop Dogg,Back Up Ho,472
+66,31598,0.11836475944788068,31607,Snoop Dogg,I'm Ya Dog,472,Snoop Dogg,Back Up Ho,472
+67,31595,0.10357462906116392,31607,Snoop Dogg,I Knew That,472,Snoop Dogg,Back Up Ho,472
+68,10440,0.06379178520270129,31607,Foo Fighters,Rope,151,Snoop Dogg,Back Up Ho,472
+69,31596,0.21143673459098186,31599,Snoop Dogg,I Love My Momma,472,Snoop Dogg,In Love With A Thug,472
+70,31372,0.19898386402344803,31599,Selena Gomez,Love You Like A Love Song,467,Snoop Dogg,In Love With A Thug,472
+71,31371,0.14871362236058175,31599,Selena Gomez,Love Will Remember,467,Snoop Dogg,In Love With A Thug,472
+72,10424,0.20519836745369469,10427,Foo Fighters,Doa,151,Foo Fighters,Lonely As You,151
+73,10409,0.1668693715551253,10427,Foo Fighters,Times Like These (One-Way Motorway),151,Foo Fighters,Lonely As You,151
+74,10365,0.12409399653147626,10427,Foo Fighters,"Cheer Up, Boys (Your Make-Up Is Running)",151,Foo Fighters,Lonely As You,151
+75,10386,0.06339614828358721,10427,Foo Fighters,I'm Alone Again,151,Foo Fighters,Lonely As You,151
+76,10375,0.203517803541076,31622,Foo Fighters,Freaks By Live,151,Snoop Dogg,Freaky Tales,472
+77,31594,0.1995258900697925,31600,Snoop Dogg,I Can't Swim,472,Snoop Dogg,Issues,472
+78,31368,0.19712875063799212,31583,Selena Gomez,Beat,467,Snoop Dogg,Beat Up On Yo Pads,472
+79,10363,0.19657590902552194,10409,Foo Fighters,"But, Honestly",151,Foo Fighters,Times Like These (One-Way Motorway),151
+80,10368,0.14725741129780848,10409,Foo Fighters,Drive Me Wild - Everlong Uk Single,151,Foo Fighters,Times Like These (One-Way Motorway),151
+81,10399,0.10368464828041024,10409,Foo Fighters,"Oh, George",151,Foo Fighters,Times Like These (One-Way Motorway),151
+82,31590,0.19474647883845328,31608,Snoop Dogg,G Funk Intro,472,Snoop Dogg,Bathtub,472
+83,31597,0.1850372765656766,31608,Snoop Dogg,I'm Threw Witchu,472,Snoop Dogg,Bathtub,472
+84,31607,0.13749891204332176,31608,Snoop Dogg,Back Up Ho,472,Snoop Dogg,Bathtub,472
+85,31584,0.11236123564395367,31608,Snoop Dogg,Been Around Tha World,472,Snoop Dogg,Bathtub,472
+86,10453,0.08434882085989953,31608,Foo Fighters,Watershed,151,Snoop Dogg,Bathtub,472
+87,31591,0.06768192401037132,31608,Snoop Dogg,Game Don't Wait,472,Snoop Dogg,Bathtub,472
+88,10437,0.19469856804684676,31372,Foo Fighters,Petrol Cb,151,Selena Gomez,Love You Like A Love Song,467
+89,10376,0.19447891770439288,10410,Foo Fighters,Gimme Stitches,151,Foo Fighters,Tired Of You,151
+90,31373,0.18883446174461932,31375,Selena Gomez,Stars Dance,467,Selena Gomez,We Own The Night,467
+91,10418,0.12135908813860233,31375,Foo Fighters,Baby Hold On To Me,151,Selena Gomez,We Own The Night,467
+92,10366,0.11104440044359183,31375,Foo Fighters,Darling Nikki,151,Selena Gomez,We Own The Night,467
+93,10427,0.187477791790934,10448,Foo Fighters,Lonely As You,151,Foo Fighters,The One.,151
+94,10446,0.11612649267457045,10448,Foo Fighters,The Deepest Blues Are Black,151,Foo Fighters,The One.,151
+95,10431,0.06039874132773133,10448,Foo Fighters,Monkey Wrench,151,Foo Fighters,The One.,151
+96,10385,0.17696230234241553,10456,Foo Fighters,I'll Stick Around,151,Foo Fighters,Word Forward,151
+97,31585,0.17595251560411593,31588,Snoop Dogg,Change Gone Come,472,Snoop Dogg,Doggy Dogg World,472
+98,31363,0.17012512760194343,31373,Selena Gomez,Fly To Your Heart,467,Selena Gomez,Stars Dance,467
+99,10371,0.08692242440848874,31373,Foo Fighters,February Stars,151,Selena Gomez,Stars Dance,467
+100,10450,0.07715115089180313,31373,Foo Fighters,Virginia Moon,151,Selena Gomez,Stars Dance,467
+101,10432,0.05230774556146509,31373,Foo Fighters,My Poor Brain,151,Selena Gomez,Stars Dance,467
+102,10364,0.16848604078124854,10419,Foo Fighters,Carry On My Wayward Son,151,Foo Fighters,Big Me,151
+103,31583,0.15675494788562866,31623,Snoop Dogg,Beat Up On Yo Pads,472,Snoop Dogg,From Long Beach 2 Brick City,472
+104,31621,0.1519832116721525,31623,Snoop Dogg,Don't Fight The Feelin',472,Snoop Dogg,From Long Beach 2 Brick City,472
+105,10384,0.15178097661058698,10445,Foo Fighters,I Am A River,151,Foo Fighters,The Colour And The Shape,151
+106,10362,0.14643767416145362,10423,Foo Fighters,Burn Away,151,Foo Fighters,Dear Rosemary,151
+107,31366,0.1464059243467237,31631,Selena Gomez,That's More Like It,467,Snoop Dogg,Girl Like U,472
+108,10413,0.14637020509489285,31363,Foo Fighters,A320,151,Selena Gomez,Fly To Your Heart,467
+109,10443,0.09696447793071088,31363,Foo Fighters,Statues,151,Selena Gomez,Fly To Your Heart,467
+110,10455,0.06017283742102562,31363,Foo Fighters,What If I Do?,151,Selena Gomez,Fly To Your Heart,467
+111,10410,0.1450755315206254,10421,Foo Fighters,Tired Of You,151,Foo Fighters,Damn You Damn Everyone,151
+112,10395,0.07325487047909472,10421,Foo Fighters,Make A Bet,151,Foo Fighters,Damn You Damn Everyone,151
+113,10448,0.13934291145114652,31366,Foo Fighters,The One.,151,Selena Gomez,That's More Like It,467
+114,31613,0.13913707175448328,31633,Snoop Dogg,Can't Say Goodbye,472,Snoop Dogg,Hi 2 U,472
+115,10370,0.138432440267758,10457,Foo Fighters,Everlong,151,Foo Fighters,X-Static,151
+116,10381,0.1320077586313988,10457,Foo Fighters,"Hey, Johnny Park!",151,Foo Fighters,X-Static,151
+117,31587,0.13485936033339357,31627,Snoop Dogg,Deez Hollywood Nights,472,Snoop Dogg,Gangsta Like Me,472
+118,31618,0.12840045897058716,31627,Snoop Dogg,Doggyland,472,Snoop Dogg,Gangsta Like Me,472
+119,10391,0.10596580024269922,31627,Foo Fighters,Just Another Story About Skeeter Thompson,151,Snoop Dogg,Gangsta Like Me,472
+120,31622,0.100174037681822,31627,Snoop Dogg,Freaky Tales,472,Snoop Dogg,Gangsta Like Me,472
+121,10444,0.07159491329809928,31627,Foo Fighters,Summer's End,151,Snoop Dogg,Gangsta Like Me,472
+122,10367,0.13289951712864273,10414,Foo Fighters,Disenchanted Lullaby,151,Foo Fighters,A Matter of Time,151
+123,10436,0.13277837964536657,10449,Foo Fighters,Over And Out,151,Foo Fighters,Up In Arms,151
+124,10435,0.1179269916382341,10449,Foo Fighters,On The Mend,151,Foo Fighters,Up In Arms,151
+125,10447,0.040947007127705874,10449,Foo Fighters,The Feast And The Famine,151,Foo Fighters,Up In Arms,151
+126,10434,0.12486632795994783,10444,Foo Fighters,No Way Back,151,Foo Fighters,Summer's End,151
+127,10397,0.10954248989412646,10444,Foo Fighters,New Way Home,151,Foo Fighters,Summer's End,151
+128,31375,0.12176498623612163,31587,Selena Gomez,We Own The Night,467,Snoop Dogg,Deez Hollywood Nights,472
+129,10441,0.059027445761721434,31587,Foo Fighters,Spill,151,Snoop Dogg,Deez Hollywood Nights,472
+130,31364,0.11802460432953515,31595,Selena Gomez,Hands To Myself,467,Snoop Dogg,I Knew That,472
+131,31362,0.09567429154901651,31595,Selena Gomez,Feel Me,467,Snoop Dogg,I Knew That,472
+132,10369,0.11735517639195467,10408,Foo Fighters,End Over End,151,Foo Fighters,Throwing Needles,151
+133,10426,0.11567814383099176,10451,Foo Fighters,Live-In Skin,151,Foo Fighters,Walking A Line,151
+134,10374,0.059668392576481356,10451,Foo Fighters,Fraternity,151,Foo Fighters,Walking A Line,151
+135,10361,0.11518493149514929,10407,Foo Fighters,Alone Easy Target,151,Foo Fighters,This Is A Call,151
+136,10406,0.1130681124489071,31365,Foo Fighters,The Best Of You,151,Selena Gomez,I Won't Apologize,467
+137,10378,0.11063473768451398,31367,Foo Fighters,Have A Cigar,151,Selena Gomez,As A Blonde,467
+138,10457,0.06585315548888754,31367,Foo Fighters,X-Static,151,Selena Gomez,As A Blonde,467
+139,10373,0.10845459867340741,10396,Foo Fighters,For All The Cows,151,Foo Fighters,Mountain Of You,151
+140,31586,0.10806087157065068,31594,Snoop Dogg,Cold Game,472,Snoop Dogg,I Can't Swim,472
+141,10415,0.10272197381010759,10443,Foo Fighters,Ain't It The Life,151,Foo Fighters,Statues,151
+142,10423,0.10194088977850464,10443,Foo Fighters,Dear Rosemary,151,Foo Fighters,Statues,151
+143,10382,0.054386350321739864,10443,Foo Fighters,Holiday In Cambodia,151,Foo Fighters,Statues,151
+144,10394,0.10228963039856515,10415,Foo Fighters,Life Of Illusion,151,Foo Fighters,Ain't It The Life,151
+145,10417,0.09984342796494051,10446,Foo Fighters,Arlandria,151,Foo Fighters,The Deepest Blues Are Black,151
+146,10428,0.09885450182553371,10450,Foo Fighters,Long Road To Ruin,151,Foo Fighters,Virginia Moon,151
+147,10403,0.09425537955855956,10426,Foo Fighters,Skin And Bones,151,Foo Fighters,Live-In Skin,151
+148,10387,0.09077872794214042,10391,Foo Fighters,I'm In Love With A German Film Star,151,Foo Fighters,Just Another Story About Skeeter Thompson,151
+149,31367,0.08821055230779846,31618,Selena Gomez,As A Blonde,467,Snoop Dogg,Doggyland,472
+150,10429,0.06553685771665756,31618,Foo Fighters,Milk,151,Snoop Dogg,Doggyland,472
+151,10430,0.08414854820760594,31368,Foo Fighters,Miss The Misery,151,Selena Gomez,Beat,467
+152,10411,0.08401880173032643,10412,Foo Fighters,Whippin' Picadilly,151,Foo Fighters,White Limo,151
+153,10421,0.08304388978447147,31364,Foo Fighters,Damn You Damn Everyone,151,Selena Gomez,Hands To Myself,467
+154,10402,0.08285452724282176,31597,Foo Fighters,Sister Europe,151,Snoop Dogg,I'm Threw Witchu,472
+155,10451,0.08213428857010857,31621,Foo Fighters,Walking A Line,151,Snoop Dogg,Don't Fight The Feelin',472
+156,10407,0.07976340720129484,10413,Foo Fighters,This Is A Call,151,Foo Fighters,A320,151
+157,10380,0.07412813530686112,10428,Foo Fighters,Hell's Garden,151,Foo Fighters,Long Road To Ruin,151
+158,10425,0.06979738501767767,31609,Foo Fighters,Headwires,151,Snoop Dogg,Betta Days,472
+159,10438,0.0646819574874053,31609,Foo Fighters,Razor,151,Snoop Dogg,Betta Days,472
+160,10400,0.06805262506203683,10434,Foo Fighters,Seda,151,Foo Fighters,No Way Back,151
+161,10377,0.066244746597036,31584,Foo Fighters,Good Grief,151,Snoop Dogg,Been Around Tha World,472
+162,10456,0.045305037499271866,31590,Foo Fighters,Word Forward,151,Snoop Dogg,G Funk Intro,472
