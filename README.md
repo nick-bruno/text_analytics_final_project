@@ -15,4 +15,6 @@ The purpose of our project was to take a corpus of 57,650 songs and try to find 
 
 ## Folder Structure
 
-The final_code folder includes all our work. The 5 Jupyter notebooks numbered accordingly comprises of our code and analysis. The data folder includes all our original and intermediary CSV files, including the original data (songdata.csv), tokens table ( artist_song_verse_line_OHCO_df_FULL.csv) and our artists and song key files named as such. The supplemental_code folder includes a notebook that was used to extract a tokens table for our analysis for artist similarity and is not critical to our final data product.
+The final_code folder includes all our work. The 5 Jupyter notebooks numbered accordingly comprises of our code and analysis. The data folder includes all our original and intermediary CSV files, including the original data (songdata.csv), tokens table ( artist_song_verse_line_OHCO_df_FULL.csv), our artists and song key files named as such and our subset csvs used for Sentiment Analysis. 
+
+The supplemental_code folder includes a notebook that analyzes similarity for songs for for 40 artists. We decided to perform this analysis to show song similarity over a larger corpus, but it is not a part of our main data product as the code is redundant with our other artist and song comparisons.
