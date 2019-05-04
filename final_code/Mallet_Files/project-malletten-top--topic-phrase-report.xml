@@ -1,0 +1,423 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="0.13893538182639578" totalTokens="178438" titles="god bless, set free, sing song, jesus christ, lord, lord lord, god god, doo doo, sing sing, lord mercy">
+	<word weight="0.02689449556708773" count="4799">god</word>
+	<word weight="0.023363857474304802" count="4169">lord</word>
+	<word weight="0.013831134623790896" count="2468">jesus</word>
+	<word weight="0.013444445689819434" count="2399">sing</word>
+	<word weight="0.011135520460888376" count="1987">world</word>
+	<word weight="0.01102343671191114" count="1967">heaven</word>
+	<word weight="0.00998666203387171" count="1782">soul</word>
+	<word weight="0.009555139600309352" count="1705">free</word>
+	<word weight="0.009543931225411627" count="1703">life</word>
+	<word weight="0.009274930227866261" count="1655">born</word>
+	<word weight="0.009168450666337888" count="1636">man</word>
+	<word weight="0.007677736804940652" count="1370">king</word>
+	<word weight="0.007475986056781628" count="1334">chorus</word>
+	<word weight="0.007279839496071465" count="1299">people</word>
+	<word weight="0.006775462625673904" count="1209">peace</word>
+	<word weight="0.006741837500980733" count="1203">glory</word>
+	<word weight="0.006680191439043253" count="1192">holy</word>
+	<word weight="0.0065456909402705704" count="1168">children</word>
+	<word weight="0.006512065815577399" count="1162">he's</word>
+	<word weight="0.006338336004662684" count="1131">father</word>
+	<phrase weight="0.002307002178835391" count="54">god bless</phrase>
+	<phrase weight="0.0022215576536933398" count="52">set free</phrase>
+	<phrase weight="0.0020506686034092365" count="48">sing song</phrase>
+	<phrase weight="0.0018370572905541077" count="43">jesus christ</phrase>
+	<phrase weight="0.001623445977698979" count="38">lord lord</phrase>
+	<phrase weight="0.0015380014525569275" count="36">god god</phrase>
+	<phrase weight="0.0013671124022728244" count="32">doo doo</phrase>
+	<phrase weight="0.001068056564275644" count="25">sing sing</phrase>
+	<phrase weight="0.001068056564275644" count="25">lord mercy</phrase>
+	<phrase weight="9.398897765625667E-4" count="22">promised land</phrase>
+	<phrase weight="8.97167513991541E-4" count="21">pray god</phrase>
+	<phrase weight="8.117229888494895E-4" count="19">children children</phrase>
+	<phrase weight="8.117229888494895E-4" count="19">child born</phrase>
+	<phrase weight="7.262784637074379E-4" count="17">brothers sisters</phrase>
+	<phrase weight="7.262784637074379E-4" count="17">soul brother</phrase>
+	<phrase weight="6.835562011364122E-4" count="16">free free</phrase>
+	<phrase weight="6.835562011364122E-4" count="16">mercy mercy</phrase>
+	<phrase weight="6.835562011364122E-4" count="16">hand hand</phrase>
+	<phrase weight="6.835562011364122E-4" count="16">heaven earth</phrase>
+	<phrase weight="6.835562011364122E-4" count="16">save soul</phrase>
+  </topic>
+  <topic id="1" alpha="0.4030231522615234" totalTokens="455102" titles="night, close eyes, light, sun, wind blows, day, sun shine, blue sky, bright lights, sun shines">
+	<word weight="0.016139239115626827" count="7345">night</word>
+	<word weight="0.01244775896392457" count="5665">light</word>
+	<word weight="0.012337893483219146" count="5615">sun</word>
+	<word weight="0.010538296909264297" count="4796">day</word>
+	<word weight="0.009843947071206016" count="4480">sky</word>
+	<word weight="0.008776054598749292" count="3994">eyes</word>
+	<word weight="0.008683767594956735" count="3952">time</word>
+	<word weight="0.008496996277757513" count="3867">rain</word>
+	<word weight="0.006888565640230103" count="3135">hear</word>
+	<word weight="0.006697399703802664" count="3048">wind</word>
+	<word weight="0.006400762905898019" count="2913">blue</word>
+	<word weight="0.006299686663649028" count="2867">moon</word>
+	<word weight="0.006042601438798335" count="2750">dream</word>
+	<word weight="0.0060294175811136845" count="2744">there's</word>
+	<word weight="0.005954709054233996" count="2710">it's</word>
+	<word weight="0.005675650733242219" count="2583">fly</word>
+	<word weight="0.0056448883986446995" count="2569">world</word>
+	<word weight="0.005603139515976638" count="2550">home</word>
+	<word weight="0.0053196865757566434" count="2421">high</word>
+	<word weight="0.00522300495273587" count="2377">sea</word>
+	<phrase weight="8.027459447489342E-4" count="58">close eyes</phrase>
+	<phrase weight="6.781819188396169E-4" count="49">wind blows</phrase>
+	<phrase weight="6.366605768698445E-4" count="46">sun shine</phrase>
+	<phrase weight="6.22820129546587E-4" count="45">blue sky</phrase>
+	<phrase weight="5.536178929302995E-4" count="40">bright lights</phrase>
+	<phrase weight="5.536178929302995E-4" count="40">sun shines</phrase>
+	<phrase weight="4.982561036372695E-4" count="36">shine light</phrase>
+	<phrase weight="4.705752089907546E-4" count="34">rainy day</phrase>
+	<phrase weight="4.5673476166749707E-4" count="33">night night</phrase>
+	<phrase weight="4.428943143442396E-4" count="32">sun shining</phrase>
+	<phrase weight="4.428943143442396E-4" count="32">day day</phrase>
+	<phrase weight="4.013729723744671E-4" count="29">moon stars</phrase>
+	<phrase weight="4.013729723744671E-4" count="29">open eyes</phrase>
+	<phrase weight="3.8753252505120965E-4" count="28">light shine</phrase>
+	<phrase weight="3.5985163040469465E-4" count="26">morning light</phrase>
+	<phrase weight="3.5985163040469465E-4" count="26">night day</phrase>
+	<phrase weight="3.5985163040469465E-4" count="26">open wide</phrase>
+	<phrase weight="3.5985163040469465E-4" count="26">pouring rain</phrase>
+	<phrase weight="3.460111830814372E-4" count="25">round round</phrase>
+	<phrase weight="3.321707357581797E-4" count="24">dream dream</phrase>
+  </topic>
+  <topic id="2" alpha="0.25922933158542044" totalTokens="366777" titles="yeah yeah, i'm gonna, rock roll, baby baby, hey hey, yeah yeah yeah, we're gonna, gonna make, baby don't, ain't gonna">
+	<word weight="0.05903859838539494" count="21654">baby</word>
+	<word weight="0.05177260297128773" count="18989">yeah</word>
+	<word weight="0.03461776501798095" count="12697">i'm</word>
+	<word weight="0.03208489081921713" count="11768">gonna</word>
+	<word weight="0.021727098482183998" count="7969">hey</word>
+	<word weight="0.019316914637504533" count="7085">wanna</word>
+	<word weight="0.018272683401630962" count="6702">girl</word>
+	<word weight="0.017852809745431148" count="6548">don't</word>
+	<word weight="0.015172707121766087" count="5565">make</word>
+	<word weight="0.014444744354198872" count="5298">ain't</word>
+	<word weight="0.013242378884172127" count="4857">ooh</word>
+	<word weight="0.012525321925856855" count="4594">you're</word>
+	<word weight="0.011980031463259691" count="4394">gotta</word>
+	<word weight="0.011884605632305189" count="4359">tonight</word>
+	<word weight="0.011789179801350684" count="4324">good</word>
+	<word weight="0.011339315169708025" count="4159">it's</word>
+	<word weight="0.010210563912131895" count="3745">dance</word>
+	<word weight="0.010101505819612461" count="3705">night</word>
+	<word weight="0.009640735378717858" count="3536">rock</word>
+	<word weight="0.009629829569465915" count="3532">let's</word>
+	<phrase weight="0.009570820302196767" count="508">yeah yeah</phrase>
+	<phrase weight="0.00902445457628396" count="479">i'm gonna</phrase>
+	<phrase weight="0.006141904367157768" count="326">rock roll</phrase>
+	<phrase weight="0.0052187346923395755" count="277">baby baby</phrase>
+	<phrase weight="0.005068013112777422" count="269">hey hey</phrase>
+	<phrase weight="0.004088322845623422" count="217">yeah yeah yeah</phrase>
+	<phrase weight="0.0026187874448924224" count="139">we're gonna</phrase>
+	<phrase weight="0.0025434266551113455" count="135">gonna make</phrase>
+	<phrase weight="0.0025057462602208072" count="133">baby don't</phrase>
+	<phrase weight="0.002411545272994461" count="128">ain't gonna</phrase>
+	<phrase weight="0.0022796638908775765" count="121">ooh ooh</phrase>
+	<phrase weight="0.002260823693432307" count="120">don't wanna</phrase>
+	<phrase weight="0.002147782508760692" count="114">hey hey hey</phrase>
+	<phrase weight="0.001921700139417461" count="102">baby i'm</phrase>
+	<phrase weight="0.0017709785598553074" count="94">you're gonna</phrase>
+	<phrase weight="0.0015072157956215382" count="80">yeah i'm</phrase>
+	<phrase weight="0.001413014808395192" count="75">baby baby baby</phrase>
+	<phrase weight="0.0012999736237235765" count="69">dance dance</phrase>
+	<phrase weight="0.001243453031387769" count="66">yeah yeah yeah yeah</phrase>
+	<phrase weight="0.001243453031387769" count="66">bye bye</phrase>
+  </topic>
+  <topic id="3" alpha="0.02672193961363546" totalTokens="66037" titles="santa claus, christmas eve, merry christmas, christmas tree, christmas christmas, cherry cherry, dom sheldon, dem, year, ring">
+	<word weight="0.037948422853854656" count="2506">christmas</word>
+	<word weight="0.007965231612580826" count="526">santa</word>
+	<word weight="0.006647788361070309" count="439">dem</word>
+	<word weight="0.006435785998758272" count="425">year</word>
+	<word weight="0.005860351015339885" count="387">tree</word>
+	<word weight="0.005118342747247755" count="338">ring</word>
+	<word weight="0.005088056695488893" count="336">merry</word>
+	<word weight="0.005088056695488893" count="336">rhythm</word>
+	<word weight="0.004648908944985387" count="307">yuh</word>
+	<word weight="0.004361191453276194" count="288">happy</word>
+	<word weight="0.004346048427396762" count="287">bow</word>
+	<word weight="0.0037706134439783757" count="249">cha</word>
+	<word weight="0.003649469236942926" count="241">les</word>
+	<word weight="0.0036343262110634946" count="240">bum</word>
+	<word weight="0.003604040159304632" count="238">music</word>
+	<word weight="0.00345260990051032" count="228">vocals</word>
+	<word weight="0.0033617517452337324" count="222">bells</word>
+	<word weight="0.0033011796417160076" count="218">ding</word>
+	<word weight="0.003134606357042264" count="207">che</word>
+	<word weight="0.0028923179429713643" count="191">claus</word>
+	<phrase weight="0.011479591836734694" count="90">santa claus</phrase>
+	<phrase weight="0.00548469387755102" count="43">christmas eve</phrase>
+	<phrase weight="0.00510204081632653" count="40">merry christmas</phrase>
+	<phrase weight="0.004336734693877551" count="34">christmas tree</phrase>
+	<phrase weight="0.0034438775510204083" count="27">christmas christmas</phrase>
+	<phrase weight="0.0033163265306122448" count="26">cherry cherry</phrase>
+	<phrase weight="0.0026785714285714286" count="21">dom sheldon</phrase>
+	<phrase weight="0.002423469387755102" count="19">year christmas</phrase>
+	<phrase weight="0.002423469387755102" count="19">slave rhythm</phrase>
+	<phrase weight="0.0021683673469387755" count="17">ding dong</phrase>
+	<phrase weight="0.0017857142857142857" count="14">ring ring</phrase>
+	<phrase weight="0.0017857142857142857" count="14">diddley diddley diddley diddley</phrase>
+	<phrase weight="0.0017857142857142857" count="14">whe yuh wine</phrase>
+	<phrase weight="0.0017857142857142857" count="14">rhythm rhythm</phrase>
+	<phrase weight="0.0016581632653061224" count="13">flim flam</phrase>
+	<phrase weight="0.0016581632653061224" count="13">bow bow bow</phrase>
+	<phrase weight="0.0016581632653061224" count="13">gyal dem</phrase>
+	<phrase weight="0.0016581632653061224" count="13">pied piper</phrase>
+	<phrase weight="0.0016581632653061224" count="13">santa clause</phrase>
+	<phrase weight="0.0016581632653061224" count="13">bow bow</phrase>
+  </topic>
+  <topic id="4" alpha="0.4722701425224175" totalTokens="512907" titles="love love, true love, heart, fall love, love love love, i'll, broken heart, close eyes, love heart, give love">
+	<word weight="0.11119169752021321" count="57031">love</word>
+	<word weight="0.0307833583866081" count="15789">heart</word>
+	<word weight="0.019816457954365995" count="10164">i'll</word>
+	<word weight="0.01283468543030218" count="6583">life</word>
+	<word weight="0.011602493239515156" count="5951">give</word>
+	<word weight="0.01151085869368131" count="5904">you're</word>
+	<word weight="0.01101759188312891" count="5651">time</word>
+	<word weight="0.010933756022046881" count="5608">hold</word>
+	<word weight="0.010631556987913989" count="5453">it's</word>
+	<word weight="0.010389797760607673" count="5329">make</word>
+	<word weight="0.009600180929486243" count="4924">feel</word>
+	<word weight="0.00947735164464513" count="4861">eyes</word>
+	<word weight="0.009114712803685658" count="4675">i'm</word>
+	<word weight="0.008927544369642059" count="4579">i've</word>
+	<word weight="0.008325095972564226" count="4270">true</word>
+	<word weight="0.007820131134884101" count="4011">i'd</word>
+	<word weight="0.007693402507667082" count="3946">can't</word>
+	<word weight="0.007416549198977593" count="3804">chorus</word>
+	<word weight="0.007313216626016022" count="3751">mine</word>
+	<word weight="0.0070227156190108535" count="3602">forever</word>
+	<phrase weight="0.009107397831204414" count="708">love love</phrase>
+	<phrase weight="0.002071032557660891" count="161">true love</phrase>
+	<phrase weight="0.0016722623136392286" count="130">fall love</phrase>
+	<phrase weight="0.0016208080886041755" count="126">love love love</phrase>
+	<phrase weight="0.0012863556258763298" count="100">broken heart</phrase>
+	<phrase weight="0.0012606285133588031" count="98">close eyes</phrase>
+	<phrase weight="0.0012349014008412767" count="96">love heart</phrase>
+	<phrase weight="0.0011834471758062233" count="92">give love</phrase>
+	<phrase weight="9.90493831924774E-4" count="77">love forever</phrase>
+	<phrase weight="9.647667194072474E-4" count="75">heart love</phrase>
+	<phrase weight="9.51903163148484E-4" count="74">make love</phrase>
+	<phrase weight="9.390396068897207E-4" count="73">love it's</phrase>
+	<phrase weight="8.489947130783776E-4" count="66">heart heart</phrase>
+	<phrase weight="8.361311568196143E-4" count="65">love baby</phrase>
+	<phrase weight="8.361311568196143E-4" count="65">love you're</phrase>
+	<phrase weight="8.104040443020877E-4" count="63">love i'll</phrase>
+	<phrase weight="7.975404880433244E-4" count="62">fell love</phrase>
+	<phrase weight="7.975404880433244E-4" count="62">love day</phrase>
+	<phrase weight="7.975404880433244E-4" count="62">love love love love</phrase>
+	<phrase weight="7.975404880433244E-4" count="62">love life</phrase>
+  </topic>
+  <topic id="5" alpha="0.09956144452611987" totalTokens="288533" titles="i'm, fatboy slim fucking, shit, ain't, nigga, boom boom, don't, money, money money, hip hop">
+	<word weight="0.03472739686621634" count="10020">i'm</word>
+	<word weight="0.012189246983880526" count="3517">shit</word>
+	<word weight="0.0121580547112462" count="3508">ain't</word>
+	<word weight="0.011475290521361509" count="3311">fuck</word>
+	<word weight="0.011353987238894685" count="3276">nigga</word>
+	<word weight="0.010449411332499228" count="3015">don't</word>
+	<word weight="0.00983596330402415" count="2838">money</word>
+	<word weight="0.007898576592625453" count="2279">bitch</word>
+	<word weight="0.007843123663497762" count="2263">back</word>
+	<word weight="0.006997466494300479" count="2019">niggas</word>
+	<word weight="0.006626625030759047" count="1912">that's</word>
+	<word weight="0.005715117508222629" count="1649">chorus</word>
+	<word weight="0.005663130387165419" count="1634">it's</word>
+	<word weight="0.005472510943288982" count="1579">man</word>
+	<word weight="0.005382399933456485" count="1553">make</word>
+	<word weight="0.005271494075201104" count="1521">ass</word>
+	<word weight="0.005261096650989661" count="1518">hit</word>
+	<word weight="0.004907584227800633" count="1416">put</word>
+	<word weight="0.004793212561474771" count="1383">y'all</word>
+	<word weight="0.004755088672699483" count="1372">yeah</word>
+	<phrase weight="8.268904783561417E-4" count="40">fatboy slim fucking</phrase>
+	<phrase weight="6.408401207260099E-4" count="31">boom boom</phrase>
+	<phrase weight="5.581510728903957E-4" count="27">money money</phrase>
+	<phrase weight="5.168065489725886E-4" count="25">hip hop</phrase>
+	<phrase weight="5.168065489725886E-4" count="25">i'm i'm</phrase>
+	<phrase weight="4.96134287013685E-4" count="24">boom boom boom</phrase>
+	<phrase weight="4.96134287013685E-4" count="24">ice cube</phrase>
+	<phrase weight="4.754620250547815E-4" count="23">give fuck</phrase>
+	<phrase weight="4.1344523917807087E-4" count="20">i'm gon</phrase>
+	<phrase weight="3.5142845330136024E-4" count="17">don't wanna</phrase>
+	<phrase weight="3.5142845330136024E-4" count="17">huh yup rapper</phrase>
+	<phrase weight="3.5142845330136024E-4" count="17">ain't gon</phrase>
+	<phrase weight="3.1008392938355314E-4" count="15">bump grind</phrase>
+	<phrase weight="3.1008392938355314E-4" count="15">bitch i'm</phrase>
+	<phrase weight="2.894116674246496E-4" count="14">god damn</phrase>
+	<phrase weight="2.6873940546574604E-4" count="13">talking bout</phrase>
+	<phrase weight="2.6873940546574604E-4" count="13">money money money</phrase>
+	<phrase weight="2.6873940546574604E-4" count="13">fuck wit</phrase>
+	<phrase weight="2.6873940546574604E-4" count="13">talkin bout</phrase>
+	<phrase weight="2.480671435068425E-4" count="12">y'all y'all</phrase>
+  </topic>
+  <topic id="6" alpha="0.33202782401966047" totalTokens="458985" titles="man, she's, she's she's, great big, boys girls, man man, back, honky tonk, home, york city">
+	<word weight="0.01720753401527283" count="7898">man</word>
+	<word weight="0.014020066015229257" count="6435">she's</word>
+	<word weight="0.011588614006993693" count="5319">he's</word>
+	<word weight="0.00826606533982592" count="3794">big</word>
+	<word weight="0.007819427650141072" count="3589">back</word>
+	<word weight="0.007409828207893504" count="3401">home</word>
+	<word weight="0.006926152270771376" count="3179">town</word>
+	<word weight="0.005902153665152456" count="2709">boy</word>
+	<word weight="0.005549200954279552" count="2547">good</word>
+	<word weight="0.004069849777225835" count="1868">girl</word>
+	<word weight="0.003956556314476508" count="1816">boys</word>
+	<word weight="0.003753935313790211" count="1723">money</word>
+	<word weight="0.003616675926228526" count="1660">girls</word>
+	<word weight="0.003542599431353966" count="1626">ain't</word>
+	<word weight="0.003470701656916893" count="1593">that's</word>
+	<word weight="0.003453271893416996" count="1585">night</word>
+	<word weight="0.0034510931729795093" count="1584">made</word>
+	<word weight="0.0033530507532925913" count="1539">day</word>
+	<word weight="0.0033029401832303886" count="1516">city</word>
+	<word weight="0.0031874680000435742" count="1463">pretty</word>
+	<phrase weight="7.18993409227082E-4" count="54">she's she's</phrase>
+	<phrase weight="5.192730177751148E-4" count="39">great big</phrase>
+	<phrase weight="5.059583250116503E-4" count="38">boys girls</phrase>
+	<phrase weight="5.059583250116503E-4" count="38">man man</phrase>
+	<phrase weight="4.660142467212569E-4" count="35">honky tonk</phrase>
+	<phrase weight="4.3938486119432795E-4" count="33">york city</phrase>
+	<phrase weight="4.1275547566739897E-4" count="31">he's he's</phrase>
+	<phrase weight="3.8612609014047E-4" count="29">back home</phrase>
+	<phrase weight="3.728113973770055E-4" count="28">man he's</phrase>
+	<phrase weight="3.728113973770055E-4" count="28">poor boy</phrase>
+	<phrase weight="3.461820118500766E-4" count="26">town town</phrase>
+	<phrase weight="3.461820118500766E-4" count="26">small town</phrase>
+	<phrase weight="3.195526263231476E-4" count="24">san francisco</phrase>
+	<phrase weight="3.062379335596831E-4" count="23">young man</phrase>
+	<phrase weight="3.062379335596831E-4" count="23">mom dad</phrase>
+	<phrase weight="2.9292324079621863E-4" count="22">freight train</phrase>
+	<phrase weight="2.9292324079621863E-4" count="22">big man</phrase>
+	<phrase weight="2.6629385526928966E-4" count="20">drink drink</phrase>
+	<phrase weight="2.5297916250582517E-4" count="19">rich man</phrase>
+	<phrase weight="2.5297916250582517E-4" count="19">man she's</phrase>
+  </topic>
+  <topic id="7" alpha="0.3052716457463772" totalTokens="380673" titles="human race, burn burn, black white, dead, dead end, die, fire, fire burn, we're, blood">
+	<word weight="0.007139986287443554" count="2718">dead</word>
+	<word weight="0.007087447756998789" count="2698">die</word>
+	<word weight="0.006735439603018864" count="2564">fire</word>
+	<word weight="0.00644122383252818" count="2452">we're</word>
+	<word weight="0.006013034809403346" count="2289">blood</word>
+	<word weight="0.0054823956519112205" count="2087">it's</word>
+	<word weight="0.005424603268421979" count="2065">hell</word>
+	<word weight="0.005198687587509489" count="1979">head</word>
+	<word weight="0.005164537542720392" count="1966">world</word>
+	<word weight="0.004799394756129277" count="1827">death</word>
+	<word weight="0.004773125490906894" count="1817">life</word>
+	<word weight="0.004660167650450649" count="1774">burn</word>
+	<word weight="0.004492044353027401" count="1710">kill</word>
+	<word weight="0.00447890972041621" count="1705">black</word>
+	<word weight="0.004471028940849496" count="1702">war</word>
+	<word weight="0.004310786422992962" count="1641">fight</word>
+	<word weight="0.004245113259937006" count="1616">pain</word>
+	<word weight="0.003987674460757658" count="1518">face</word>
+	<word weight="0.003793281898112028" count="1444">eyes</word>
+	<word weight="0.003719727955489357" count="1416">end</word>
+	<phrase weight="5.952380952380953E-4" count="34">human race</phrase>
+	<phrase weight="5.427170868347339E-4" count="31">burn burn</phrase>
+	<phrase weight="5.07703081232493E-4" count="29">black white</phrase>
+	<phrase weight="4.726890756302521E-4" count="27">dead end</phrase>
+	<phrase weight="4.376750700280112E-4" count="25">fire burn</phrase>
+	<phrase weight="3.8515406162464985E-4" count="22">fire fire</phrase>
+	<phrase weight="3.676470588235294E-4" count="21">black hole</phrase>
+	<phrase weight="3.676470588235294E-4" count="21">die die</phrase>
+	<phrase weight="3.5014005602240897E-4" count="20">loaded gun</phrase>
+	<phrase weight="3.151260504201681E-4" count="18">dead dead</phrase>
+	<phrase weight="3.151260504201681E-4" count="18">hate hate</phrase>
+	<phrase weight="3.151260504201681E-4" count="18">hate breeders</phrase>
+	<phrase weight="3.151260504201681E-4" count="18">higher higher</phrase>
+	<phrase weight="2.9761904761904765E-4" count="17">outer space</phrase>
+	<phrase weight="2.9761904761904765E-4" count="17">burn burn burn</phrase>
+	<phrase weight="2.8011204481792715E-4" count="16">blood blood</phrase>
+	<phrase weight="2.626050420168067E-4" count="15">kill kill</phrase>
+	<phrase weight="2.626050420168067E-4" count="15">flesh blood</phrase>
+	<phrase weight="2.626050420168067E-4" count="15">flesh bone</phrase>
+	<phrase weight="2.4509803921568627E-4" count="14">shot shot</phrase>
+  </topic>
+  <topic id="8" alpha="0.03998313826361327" totalTokens="54577" titles="bang bang, mary jane, doctor doctor, mary mary, john, billy, lee, chorus, lang, row">
+	<word weight="0.01214797442145959" count="663">ang</word>
+	<word weight="0.010224087069644722" count="558">bang</word>
+	<word weight="0.008666654451508878" count="473">mary</word>
+	<word weight="0.006999285413269326" count="382">john</word>
+	<word weight="0.006156439525807574" count="336">doctor</word>
+	<word weight="0.005313593638345823" count="290">billy</word>
+	<word weight="0.005313593638345823" count="290">jane</word>
+	<word weight="0.005295270901661872" count="289">lee</word>
+	<word weight="0.005148689008190263" count="281">chorus</word>
+	<word weight="0.004525715960935925" count="247">lang</word>
+	<word weight="0.0044524250142001206" count="243">row</word>
+	<word weight="0.0034629972332667607" count="189">kung</word>
+	<word weight="0.003371383549847005" count="184">kong</word>
+	<word weight="0.003353060813163054" count="183">yang</word>
+	<word weight="0.0031698334463235427" count="173">dumb</word>
+	<word weight="0.0030965424995877382" count="169">man</word>
+	<word weight="0.002821701449328472" count="154">ako</word>
+	<word weight="0.002711765029224765" count="148">jean</word>
+	<word weight="0.0025102149257013027" count="137">dah</word>
+	<word weight="0.0024735694523334005" count="135">ikaw</word>
+	<phrase weight="0.013034188034188035" count="61">bang bang</phrase>
+	<phrase weight="0.004700854700854701" count="22">mary jane</phrase>
+	<phrase weight="0.004700854700854701" count="22">doctor doctor</phrase>
+	<phrase weight="0.004487179487179487" count="21">mary mary</phrase>
+	<phrase weight="0.0038461538461538464" count="18">hong kong</phrase>
+	<phrase weight="0.0036324786324786326" count="17">cindy cindy</phrase>
+	<phrase weight="0.003205128205128205" count="15">furry creature mars</phrase>
+	<phrase weight="0.0029914529914529917" count="14">dumb dumb</phrase>
+	<phrase weight="0.002777777777777778" count="13">julie julie julie</phrase>
+	<phrase weight="0.002777777777777778" count="13">spa baba dey spa baba dey spa baba dey</phrase>
+	<phrase weight="0.002777777777777778" count="13">joan crawford</phrase>
+	<phrase weight="0.002564102564102564" count="12">kitty kitty</phrase>
+	<phrase weight="0.002564102564102564" count="12">marlon brando</phrase>
+	<phrase weight="0.002564102564102564" count="12">mona lisa</phrase>
+	<phrase weight="0.002564102564102564" count="12">vas happenin</phrase>
+	<phrase weight="0.002564102564102564" count="12">silly silly</phrase>
+	<phrase weight="0.002564102564102564" count="12">robert lee</phrase>
+	<phrase weight="0.002564102564102564" count="12">elton john</phrase>
+	<phrase weight="0.0023504273504273503" count="11">romeo juliet</phrase>
+	<phrase weight="0.002136752136752137" count="10">dah dah</phrase>
+  </topic>
+  <topic id="9" alpha="0.6206505812616524" totalTokens="725692" titles="i'm, don't, i'm gonna, don't care, it's, don't don't, it's time, it's hard, you're, can't">
+	<word weight="0.0572253793620434" count="41528">i'm</word>
+	<word weight="0.0567871769290553" count="41210">don't</word>
+	<word weight="0.03969177006223026" count="28804">it's</word>
+	<word weight="0.02336528444574282" count="16956">you're</word>
+	<word weight="0.02325642283503194" count="16877">can't</word>
+	<word weight="0.021649680580742243" count="15711">time</word>
+	<word weight="0.015047706189402666" count="10920">i've</word>
+	<word weight="0.01477899715030619" count="10725">back</word>
+	<word weight="0.009805812934412947" count="7116">won't</word>
+	<word weight="0.009586711717918897" count="6957">make</word>
+	<word weight="0.009258748890713967" count="6719">gonna</word>
+	<word weight="0.0091746911913043" count="6658">there's</word>
+	<word weight="0.00906307359044884" count="6577">feel</word>
+	<word weight="0.008998307822051228" count="6530">i'll</word>
+	<word weight="0.008750268709039097" count="6350">mind</word>
+	<word weight="0.008099855034918396" count="5878">things</word>
+	<word weight="0.007966189512906301" count="5781">life</word>
+	<word weight="0.007306129873279573" count="5302">that's</word>
+	<word weight="0.006884463381158949" count="4996">find</word>
+	<word weight="0.006582682460327522" count="4777">you've</word>
+	<phrase weight="0.0033812411730497634" count="407">i'm gonna</phrase>
+	<phrase weight="0.002467392207360638" count="297">don't care</phrase>
+	<phrase weight="0.0021849297997839994" count="263">don't don't</phrase>
+	<phrase weight="0.0019356982636869653" count="233">it's time</phrase>
+	<phrase weight="0.0014455429093627981" count="174">it's hard</phrase>
+	<phrase weight="0.0012544653983550718" count="151">don't i'm</phrase>
+	<phrase weight="0.0012212345268754674" count="147">i'm i'm</phrase>
+	<phrase weight="0.0011963113732657638" count="144">don't worry</phrase>
+	<phrase weight="0.0011547727839162582" count="139">doesn't matter</phrase>
+	<phrase weight="0.0011049264766968515" count="133">it's it's</phrase>
+	<phrase weight="0.0010467724516075433" count="126">you're gonna</phrase>
+	<phrase weight="0.00102184929799784" count="123">don't understand</phrase>
+	<phrase weight="9.138489656891252E-4" count="110">don't feel</phrase>
+	<phrase weight="8.972335299493229E-4" count="108">i'm feeling</phrase>
+	<phrase weight="8.889258120794218E-4" count="107">time i'm</phrase>
+	<phrase weight="8.806180942095206E-4" count="106">don't mind</phrase>
+	<phrase weight="8.806180942095206E-4" count="106">don't make</phrase>
+	<phrase weight="8.806180942095206E-4" count="106">don't it's</phrase>
+	<phrase weight="8.640026584697184E-4" count="104">time time</phrase>
+	<phrase weight="8.473872227299161E-4" count="102">i'm back</phrase>
+  </topic>
+</topics>
