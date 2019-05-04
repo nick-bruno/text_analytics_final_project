@@ -11,3 +11,8 @@ The purpose of our project was to take a corpus of 57,650 songs and try to find 
 4) We compared the cosine similarity of artists. We did this by combining each of the songs into one large text row, and ran our analysis from there to compare the similarity of overall lyrics between artists. This can be found in "Cosine_Similarity_Comparison_By_Artist.ipynb".
 
 5) Lastly, we ran sentiment analysis on our corpus to find the most positive and negative songs, as well as the most positive and negative artists. This can be found in "Sentiment_Analysis.ipynb".
+
+
+## Folder Structure
+
+The final_code folder includes all our work. The 5 Jupyter notebooks numbered accordingly comprises of our code and analysis. The data folder includes all our original and intermediary CSV files, including the original data (songdata.csv), tokens table ( artist_song_verse_line_OHCO_df_FULL.csv) and our artists and song key files named as such. The supplemental_code folder includes a notebook that was used to extract a tokens table for our analysis for artist similarity and is not critical to our final data product.
