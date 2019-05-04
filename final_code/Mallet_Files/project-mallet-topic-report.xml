@@ -1,0 +1,113 @@
+<?xml version='1.0' ?>
+<topicModel>
+  <topic id='0' alpha='1.039700377575402' totalTokens='1339378'>
+	<word rank='1' count='53300.0'>i'm</word>
+	<word rank='2' count='52160.0'>love</word>
+	<word rank='3' count='47007.0'>don't</word>
+	<word rank='4' count='35070.0'>it's</word>
+	<word rank='5' count='27031.0'>you're</word>
+	<word rank='6' count='23454.0'>baby</word>
+	<word rank='7' count='22484.0'>can't</word>
+	<word rank='8' count='20712.0'>time</word>
+	<word rank='9' count='16266.0'>make</word>
+	<word rank='10' count='15929.0'>i'll</word>
+	<word rank='11' count='15907.0'>yeah</word>
+	<word rank='12' count='15805.0'>gonna</word>
+	<word rank='13' count='14534.0'>i've</word>
+	<word rank='14' count='13830.0'>feel</word>
+	<word rank='15' count='12025.0'>heart</word>
+	<word rank='16' count='11245.0'>back</word>
+	<word rank='17' count='10579.0'>give</word>
+	<word rank='18' count='9916.0'>won't</word>
+	<word rank='19' count='9483.0'>life</word>
+	<word rank='20' count='9067.0'>that's</word>
+  </topic>
+  <topic id='1' alpha='0.4230761760787456' totalTokens='618677'>
+	<word rank='1' count='7463.0'>man</word>
+	<word rank='2' count='6484.0'>she's</word>
+	<word rank='3' count='5592.0'>he's</word>
+	<word rank='4' count='4814.0'>home</word>
+	<word rank='5' count='4491.0'>back</word>
+	<word rank='6' count='3721.0'>big</word>
+	<word rank='7' count='3652.0'>town</word>
+	<word rank='8' count='3561.0'>good</word>
+	<word rank='9' count='2843.0'>boy</word>
+	<word rank='10' count='2841.0'>it's</word>
+	<word rank='11' count='2741.0'>ain't</word>
+	<word rank='12' count='2614.0'>i'm</word>
+	<word rank='13' count='2460.0'>christmas</word>
+	<word rank='14' count='2454.0'>night</word>
+	<word rank='15' count='2425.0'>day</word>
+	<word rank='16' count='2248.0'>girl</word>
+	<word rank='17' count='2245.0'>gonna</word>
+	<word rank='18' count='2130.0'>round</word>
+	<word rank='19' count='1952.0'>city</word>
+	<word rank='20' count='1883.0'>boys</word>
+  </topic>
+  <topic id='2' alpha='0.15323422563961217' totalTokens='418134'>
+	<word rank='1' count='12683.0'>i'm</word>
+	<word rank='2' count='5561.0'>yeah</word>
+	<word rank='3' count='4588.0'>ain't</word>
+	<word rank='4' count='4499.0'>don't</word>
+	<word rank='5' count='3569.0'>rock</word>
+	<word rank='6' count='3498.0'>shit</word>
+	<word rank='7' count='3286.0'>fuck</word>
+	<word rank='8' count='3276.0'>nigga</word>
+	<word rank='9' count='3038.0'>money</word>
+	<word rank='10' count='2914.0'>hey</word>
+	<word rank='11' count='2753.0'>back</word>
+	<word rank='12' count='2683.0'>wanna</word>
+	<word rank='13' count='2462.0'>it's</word>
+	<word rank='14' count='2423.0'>make</word>
+	<word rank='15' count='2305.0'>bitch</word>
+	<word rank='16' count='2162.0'>dance</word>
+	<word rank='17' count='2058.0'>gotta</word>
+	<word rank='18' count='2028.0'>that's</word>
+	<word rank='19' count='2019.0'>niggas</word>
+	<word rank='20' count='1994.0'>man</word>
+  </topic>
+  <topic id='3' alpha='0.6282189646152798' totalTokens='796307'>
+	<word rank='1' count='7086.0'>life</word>
+	<word rank='2' count='6946.0'>world</word>
+	<word rank='3' count='6743.0'>eyes</word>
+	<word rank='4' count='6671.0'>day</word>
+	<word rank='5' count='6496.0'>love</word>
+	<word rank='6' count='6450.0'>light</word>
+	<word rank='7' count='6327.0'>night</word>
+	<word rank='8' count='5940.0'>time</word>
+	<word rank='9' count='5380.0'>heart</word>
+	<word rank='10' count='5292.0'>sun</word>
+	<word rank='11' count='4606.0'>sky</word>
+	<word rank='12' count='4590.0'>god</word>
+	<word rank='13' count='4319.0'>hear</word>
+	<word rank='14' count='4295.0'>there's</word>
+	<word rank='15' count='4028.0'>lord</word>
+	<word rank='16' count='3859.0'>dream</word>
+	<word rank='17' count='3656.0'>it's</word>
+	<word rank='18' count='3638.0'>soul</word>
+	<word rank='19' count='3633.0'>rain</word>
+	<word rank='20' count='3386.0'>sing</word>
+  </topic>
+  <topic id='4' alpha='0.22196653236734526' totalTokens='315225'>
+	<word rank='1' count='2382.0'>dead</word>
+	<word rank='2' count='2201.0'>die</word>
+	<word rank='3' count='2103.0'>blood</word>
+	<word rank='4' count='1930.0'>hell</word>
+	<word rank='5' count='1737.0'>death</word>
+	<word rank='6' count='1723.0'>war</word>
+	<word rank='7' count='1668.0'>man</word>
+	<word rank='8' count='1611.0'>people</word>
+	<word rank='9' count='1593.0'>kill</word>
+	<word rank='10' count='1534.0'>fight</word>
+	<word rank='11' count='1489.0'>we're</word>
+	<word rank='12' count='1353.0'>hate</word>
+	<word rank='13' count='1120.0'>head</word>
+	<word rank='14' count='1118.0'>black</word>
+	<word rank='15' count='1034.0'>it's</word>
+	<word rank='16' count='1032.0'>burn</word>
+	<word rank='17' count='964.0'>they're</word>
+	<word rank='18' count='944.0'>power</word>
+	<word rank='19' count='904.0'>god</word>
+	<word rank='20' count='867.0'>men</word>
+  </topic>
+</topicModel>
