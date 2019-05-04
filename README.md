@@ -1,4 +1,5 @@
 # text_analytics_final_project
+### Nick Bruno (nhb3zf), Karan Kant (kk4ze)
 The purpose of our project was to take a corpus of 57,650 songs and try to find similarities between songs and artists, as well as compare the sentiment of different artists. We did this in 5 main steps:
 
 1) Created an Ordered Hierarchy of Content Objects (OHCO) that included artist_id, song_id, verse_id, and line_id. So, each artist had songs, each song contained verses, and each verse contained lines. This can be found in "Song_Corpus_OHCO.ipynb".
